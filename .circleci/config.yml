@@ -11,7 +11,7 @@ jobs:
     parameters:
       cluster-name:
         description: |
-          Name of the AKS cluster
+          Name of the AKS cluster.
         type: string
       resource-group:
         description: |
